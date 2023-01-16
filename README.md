@@ -1,3 +1,3 @@
 # mark-02_Manthan
  
-# CLI Fandom Quiz App by Manthan
+# CLI Anime Fandom Quiz App by Manthan
